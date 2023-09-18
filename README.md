@@ -1,3 +1,3 @@
 # pokus1
 prvni zmena
-tak uz umi i clone
+tak uz umim i clone
